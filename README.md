@@ -11,3 +11,13 @@ Thursday July 14, 2022
 
 
 
+## Prerequisites
+ * [PostgreSQL](https://www.postgresql.org/) is a foundational backend for the HTIDB. Specifically, we rely on TOASTing, SPI, and other elements of the PostgreSQL ODBMS.
+ * Python 3: Most support scripts (ETL, query examples, etc.) are demonstrated in Python or SQL.
+ 
+ 
+ 
+ ## Authors
+  * Jamal SW
+  * Hang Y
+  * Grant S
